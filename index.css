@@ -1,0 +1,17 @@
+*{
+ 	box-sizing: border-box;
+ 	margin: 0px;
+ 	font-family: sans-serif;
+}
+.navmenu{
+	font-size: 20px;
+	color: blueviolet;
+	font-weight: bolder;
+}
+
+.logo{
+	font-size: 25px;
+	font-family: cursive;
+	font-variant: small-caps;
+	color: green;
+}
